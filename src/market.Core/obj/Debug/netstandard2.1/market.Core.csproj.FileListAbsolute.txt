@@ -1,0 +1,10 @@
+/Volumes/MAC_SD/Projects/market2/market/src/market.Core/bin/Debug/netstandard2.1/market.Core.deps.json
+/Volumes/MAC_SD/Projects/market2/market/src/market.Core/bin/Debug/netstandard2.1/market.Core.dll
+/Volumes/MAC_SD/Projects/market2/market/src/market.Core/bin/Debug/netstandard2.1/market.Core.pdb
+/Volumes/MAC_SD/Projects/market2/market/src/market.Core/obj/Debug/netstandard2.1/market.Core.csproj.AssemblyReference.cache
+/Volumes/MAC_SD/Projects/market2/market/src/market.Core/obj/Debug/netstandard2.1/market.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/MAC_SD/Projects/market2/market/src/market.Core/obj/Debug/netstandard2.1/market.Core.AssemblyInfoInputs.cache
+/Volumes/MAC_SD/Projects/market2/market/src/market.Core/obj/Debug/netstandard2.1/market.Core.AssemblyInfo.cs
+/Volumes/MAC_SD/Projects/market2/market/src/market.Core/obj/Debug/netstandard2.1/market.Core.csproj.CoreCompileInputs.cache
+/Volumes/MAC_SD/Projects/market2/market/src/market.Core/obj/Debug/netstandard2.1/market.Core.dll
+/Volumes/MAC_SD/Projects/market2/market/src/market.Core/obj/Debug/netstandard2.1/market.Core.pdb

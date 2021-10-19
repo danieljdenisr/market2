@@ -1,0 +1,22 @@
+Function=SystemNative_GetNonCryptographicallySecureRandomBytes
+	/Volumes/MAC_SD/Projects/market2/market/src/market.iOS/obj/iPhone/Debug/device-builds/iphone11.6-14.7.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_local_name
+	/Volumes/MAC_SD/Projects/market2/market/src/market.iOS/obj/iPhone/Debug/device-builds/iphone11.6-14.7.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_timezone_get_data
+	/Volumes/MAC_SD/Projects/market2/market/src/market.iOS/obj/iPhone/Debug/device-builds/iphone11.6-14.7.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Volumes/MAC_SD/Projects/market2/market/src/market.iOS/obj/iPhone/Debug/device-builds/iphone11.6-14.7.1/mtouch-cache/1-Link/mscorlib.dll
+	/Volumes/MAC_SD/Projects/market2/market/src/market.iOS/obj/iPhone/Debug/device-builds/iphone11.6-14.7.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Volumes/MAC_SD/Projects/market2/market/src/market.iOS/obj/iPhone/Debug/device-builds/iphone11.6-14.7.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Volumes/MAC_SD/Projects/market2/market/src/market.iOS/obj/iPhone/Debug/device-builds/iphone11.6-14.7.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Volumes/MAC_SD/Projects/market2/market/src/market.iOS/obj/iPhone/Debug/device-builds/iphone11.6-14.7.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Volumes/MAC_SD/Projects/market2/market/src/market.iOS/obj/iPhone/Debug/device-builds/iphone11.6-14.7.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_managed_ref
+	/Volumes/MAC_SD/Projects/market2/market/src/market.iOS/obj/iPhone/Debug/device-builds/iphone11.6-14.7.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_set_gchandle_with_flags_safe
+	/Volumes/MAC_SD/Projects/market2/market/src/market.iOS/obj/iPhone/Debug/device-builds/iphone11.6-14.7.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=mono_pmip

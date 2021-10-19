@@ -1,0 +1,141 @@
+{
+  "format": 1,
+  "restore": {
+    "/Volumes/MAC_SD/Projects/market2/market/src/market.Droid/market.Droid.csproj": {}
+  },
+  "projects": {
+    "/Volumes/MAC_SD/Projects/market2/market/src/market.Core/market.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/MAC_SD/Projects/market2/market/src/market.Core/market.Core.csproj",
+        "projectName": "market.Core",
+        "projectPath": "/Volumes/MAC_SD/Projects/market2/market/src/market.Core/market.Core.csproj",
+        "packagesPath": "/Users/danieldenis/.nuget/packages/",
+        "outputPath": "/Volumes/MAC_SD/Projects/market2/market/src/market.Core/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/danieldenis/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MvvmCross": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Volumes/MAC_SD/Projects/market2/market/src/market.Droid/market.Droid.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Volumes/MAC_SD/Projects/market2/market/src/market.Droid/market.Droid.csproj",
+        "projectName": "market.Droid",
+        "projectPath": "/Volumes/MAC_SD/Projects/market2/market/src/market.Droid/market.Droid.csproj",
+        "packagesPath": "/Users/danieldenis/.nuget/packages/",
+        "outputPath": "/Volumes/MAC_SD/Projects/market2/market/src/market.Droid/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/danieldenis/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid10.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid10.0": {
+            "projectReferences": {
+              "/Volumes/MAC_SD/Projects/market2/market/src/market.Core/market.Core.csproj": {
+                "projectPath": "/Volumes/MAC_SD/Projects/market2/market/src/market.Core/market.Core.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid10.0": {
+          "dependencies": {
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MvvmCross": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "MvvmCross.DroidX.Material": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Serilog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            },
+            "Serilog.Sinks.Xamarin": {
+              "target": "Package",
+              "version": "[0.2.0.64, )"
+            },
+            "Xamarin.AndroidX.ConstraintLayout": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Xamarin.Firebase.Messaging": {
+              "target": "Package",
+              "version": "[122.0.0.1, )"
+            },
+            "Xamarin.GooglePlayServices.Base": {
+              "target": "Package",
+              "version": "[117.6.0.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

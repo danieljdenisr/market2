@@ -1,0 +1,1 @@
+<menu tools:showIn="navigation_view" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools"><group android:id="@+id/nav_items"><item android:id="@+id/nav_home" android:title="@string/app_home" /><item android:id="@+id/nav_settings" android:title="@string/app_settings" /></group></menu>

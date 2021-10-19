@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WkFscd3PYVdF2CeyD2S1uIgeQtgE9MXEFd3OtE20orSEQea5wuX1h7xBmOb+Nyq26vkFGW8cGf8s8Z8BYP9WCg==",
+  "success": true,
+  "projectFilePath": "/Volumes/MAC_SD/Projects/market2/market/src/market.Core/market.Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/danieldenis/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "/Users/danieldenis/.nuget/packages/mvvmcross/8.0.2/mvvmcross.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

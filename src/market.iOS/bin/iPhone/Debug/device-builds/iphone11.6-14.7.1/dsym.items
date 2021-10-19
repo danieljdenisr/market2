@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_AppExtensionDebugSymbolProperties Include="market.iOS.app">
+      <NativeExecutable>market.iOS</NativeExecutable>
+      <CompiledArchitectures>ARM64</CompiledArchitectures>
+      <NoDSymUtil>false</NoDSymUtil>
+      <NoSymbolStrip>false</NoSymbolStrip>
+      <SymbolsList>/Volumes/MAC_SD/Projects/market2/market/src/market.iOS/obj/iPhone/Debug/device-builds/iphone11.6-14.7.1/mtouch-symbols.list</SymbolsList>
+    </_AppExtensionDebugSymbolProperties>
+  </ItemGroup>
+</Project>
