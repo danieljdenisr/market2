@@ -17,6 +17,11 @@ using MvvmCross.Platforms.Android.Views.AppCompat;
 using market.Core.ViewModels.Main;
 using market.Droid.Views.Helpers;
 
+
+
+
+
+
 namespace market.Droid.Views.Main
 {
     [Activity(

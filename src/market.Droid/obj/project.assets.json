@@ -1510,6 +1510,21 @@
           "buildTransitive/monoandroid9.0/Xamarin.Google.Android.Material.targets": {}
         }
       },
+      "Xamarin.Google.Guava.ListenableFuture/1.0.0.2": {
+        "type": "package",
+        "frameworkAssemblies": [
+          "Java.Interop"
+        ],
+        "compile": {
+          "lib/monoandroid50/Xamarin.Google.Guava.ListenableFuture.dll": {}
+        },
+        "runtime": {
+          "lib/monoandroid50/Xamarin.Google.Guava.ListenableFuture.dll": {}
+        },
+        "build": {
+          "buildTransitive/monoandroid50/_._": {}
+        }
+      },
       "Xamarin.GooglePlayServices.Base/117.6.0.1": {
         "type": "package",
         "dependencies": {
@@ -3085,6 +3100,23 @@
         "xamarin.google.android.material.nuspec"
       ]
     },
+    "Xamarin.Google.Guava.ListenableFuture/1.0.0.2": {
+      "sha512": "qmkNS5p4eRoDjQM/6VyRaX6lFCNYCiMvFVRj3nfOzt/+AuqTqAhRqIcAYeWLtUxdfDOC72yLSfWKeLiPIuYz0A==",
+      "type": "package",
+      "path": "xamarin.google.guava.listenablefuture/1.0.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "THIRD-PARTY-NOTICES.txt",
+        "build/monoandroid50/Xamarin.Google.Guava.ListenableFuture.targets",
+        "build/monoandroid50/guava-listenablefuture.jar",
+        "buildTransitive/monoandroid50/Xamarin.Google.Guava.ListenableFuture.targets",
+        "buildTransitive/monoandroid50/guava-listenablefuture.jar",
+        "lib/monoandroid50/Xamarin.Google.Guava.ListenableFuture.dll",
+        "xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512",
+        "xamarin.google.guava.listenablefuture.nuspec"
+      ]
+    },
     "Xamarin.GooglePlayServices.Base/117.6.0.1": {
       "sha512": "chIMkE5V+ISqCnqDbpRS94w6Yran1IxWCJhX5d93lr6fUZETd0qaisOBvIODbGiHEDPN+2QMGTGYntSmchijrQ==",
       "type": "package",
@@ -3199,6 +3231,7 @@
       "Serilog.Sinks.Xamarin >= 0.2.0.64",
       "Xamarin.AndroidX.ConstraintLayout >= 2.1.0",
       "Xamarin.Firebase.Messaging >= 122.0.0.1",
+      "Xamarin.Google.Guava.ListenableFuture >= 1.0.0.2",
       "Xamarin.GooglePlayServices.Base >= 117.6.0.1",
       "market.Core >= 1.0.0"
     ]
@@ -3265,6 +3298,11 @@
           "Xamarin.Firebase.Messaging": {
             "target": "Package",
             "version": "[122.0.0.1, )"
+          },
+          "Xamarin.Google.Guava.ListenableFuture": {
+            "include": "Runtime, Compile, Native, ContentFiles, Analyzers",
+            "target": "Package",
+            "version": "[1.0.0.2, )"
           },
           "Xamarin.GooglePlayServices.Base": {
             "target": "Package",

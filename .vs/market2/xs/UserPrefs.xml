@@ -1,10 +1,8 @@
-﻿<Properties StartupConfiguration="{0619539F-7B5D-432D-B4A1-CFDD499D611C}|Default">
+﻿<Properties StartupConfiguration="{02722D96-9240-4C94-A1B1-DA02A66219C1}|Default">
   <MonoDevelop.Ide.ItemProperties.market.Droid AndroidDesignerPreferredTheme="AppTheme" AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.pixel_2_r_11_0_-_api_30" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/market.Droid/Views/Main/MainContainerActivity.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/market.Droid/MainApplication.cs">
     <Files>
       <File FileName="src/market.Droid/MainApplication.cs" Line="1" Column="1" />
-      <File FileName="src/market.Droid/Setup.cs" Line="1" Column="1" />
-      <File FileName="src/market.Droid/Views/Main/MainContainerActivity.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,18 +12,19 @@
               <Node name="ViewModels" expanded="True" />
             </Node>
             <Node name="market.Droid" expanded="True">
+              <Node name="Packages" expanded="True" />
+              <Node name="Linker" expanded="True" />
               <Node name="Views" expanded="True">
-                <Node name="Main" expanded="True">
-                  <Node name="MainContainerActivity.cs" selected="True" />
-                </Node>
+                <Node name="Main" expanded="True" />
               </Node>
+              <Node name="MainApplication.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.market.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.00008020-001D25420AC2002E" />
+  <MonoDevelop.Ide.ItemProperties.market.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

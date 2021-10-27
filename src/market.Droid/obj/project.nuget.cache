@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "0YJ/6T0RbizypcVH6ZChPROPfTMYJoXMajOiGA9ltasPOEsoKAVp0exn5yrQSsch3azIOwKrIZQCuKK9IFE8JA==",
+  "dgSpecHash": "A5LsKks/MyOT63/0v5skqpwXRWL+IrriGNB//UNAhEYD136FR+R3sd3DpGj9ps0VXOpGDGUwMUv9NS9Ltkg5iA==",
   "success": true,
   "projectFilePath": "/Volumes/MAC_SD/Projects/market2/market/src/market.Droid/market.Droid.csproj",
   "expectedPackageFiles": [
@@ -71,6 +71,7 @@
     "/Users/danieldenis/.nuget/packages/xamarin.google.android.datatransport.transportbackendcct/3.0.0/xamarin.google.android.datatransport.transportbackendcct.3.0.0.nupkg.sha512",
     "/Users/danieldenis/.nuget/packages/xamarin.google.android.datatransport.transportruntime/3.0.1/xamarin.google.android.datatransport.transportruntime.3.0.1.nupkg.sha512",
     "/Users/danieldenis/.nuget/packages/xamarin.google.android.material/1.4.0/xamarin.google.android.material.1.4.0.nupkg.sha512",
+    "/Users/danieldenis/.nuget/packages/xamarin.google.guava.listenablefuture/1.0.0.2/xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512",
     "/Users/danieldenis/.nuget/packages/xamarin.googleplayservices.base/117.6.0.1/xamarin.googleplayservices.base.117.6.0.1.nupkg.sha512",
     "/Users/danieldenis/.nuget/packages/xamarin.googleplayservices.basement/117.6.0.2/xamarin.googleplayservices.basement.117.6.0.2.nupkg.sha512",
     "/Users/danieldenis/.nuget/packages/xamarin.googleplayservices.cloudmessaging/117.0.0.1/xamarin.googleplayservices.cloudmessaging.117.0.0.1.nupkg.sha512",

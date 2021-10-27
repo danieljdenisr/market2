@@ -1,6 +1,5 @@
 MvvmCross.dll
 MvvmCross.DroidX.Material.dll
-Plugin.FirebasePushNotification.dll
 Serilog.Sinks.Xamarin.dll
 Xamarin.AndroidX.Activity.dll
 Xamarin.AndroidX.Annotation.dll
@@ -55,6 +54,7 @@ Xamarin.Google.Android.DataTransport.TransportApi.dll
 Xamarin.Google.Android.DataTransport.TransportBackendCct.dll
 Xamarin.Google.Android.DataTransport.TransportRuntime.dll
 Xamarin.Google.Android.Material.dll
+Xamarin.Google.Guava.ListenableFuture.dll
 Xamarin.GooglePlayServices.Base.dll
 Xamarin.GooglePlayServices.Basement.dll
 Xamarin.GooglePlayServices.CloudMessaging.dll
